@@ -1,0 +1,8 @@
+{
+  "name": "Aakruthi Constructions",
+  "description": "Premium official website of Aakruthi Constructions (Davanagere, Karnataka). Specializing in luxury villas, commercial developments, flats, structural renovations, high-end interior design, and verified real estate solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
